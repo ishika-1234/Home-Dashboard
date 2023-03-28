@@ -1,0 +1,1544 @@
+.nav{
+    position: absolute;
+    width: 1480px;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+h1{
+    
+   position: absolute;
+   width: 174px;
+   height: 24px;
+   left: 660px;
+   top: 10px;
+
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 14px;
+   line-height: 26px; 
+   text-align: right;
+   color: #6E726E;
+
+}
+.userlogo{
+    position: absolute;
+    width:40px;
+    height: 40px;
+    left: 1300px;
+    top: 15px;
+
+}
+.name{
+    position: absolute;
+    width: 100px;
+    height: 26px;
+    left: 1350px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 20px;
+    text-align: right;
+    color: #000000;
+}
+.Team{
+    
+position: absolute;
+width: 53px;
+height: 26px;
+left: 1360px;
+top: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 186% */
+text-align: right;
+color: #9C9AA4;
+}
+
+.Home{
+    position: absolute;
+    width: 46px;
+    height: 26px;
+    left: 48px;
+    top: 130px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #6B5DD3;
+    }
+    a:link {
+        text-decoration: none;
+      }
+      
+      a:visited {
+        text-decoration: none;
+      }
+      
+      a:hover {
+        text-decoration: underline;
+      }
+      
+      a:active {
+        text-decoration: underline;
+      }
+
+.homelogo{
+    position: absolute;
+    margin-left:-29px;
+    top:8.33%;
+}
+.Assets{
+    
+position: absolute;
+width: 57px;
+height: 26px;
+left: 40px;
+top: 182px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+color: #9C9AA4;
+}
+.Assetslogo{
+    position:absolute;
+    margin-left: -20px;
+    top:8.34%;
+    bottom:8.33%;
+}
+
+.Add{
+    position: absolute;
+width: 129px;
+height: 26px;
+left: 38px;
+top: 224px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+color: #9C9AA4;
+
+}
+.NewAssetslogo{
+    position: absolute;
+    margin-left:-22px;
+    top:6px;
+    bottom:8.33%;
+}
+.Repair{
+    position: absolute;
+    width: 167px;
+    height: 26px;
+    left: 40px;
+    top: 269px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #9C9AA4;
+
+}
+.Repairlogo{
+    position:absolute;
+    margin-left:-25px;
+    top:8.33%;
+    bottom:8.33%;
+}
+.Reports{
+    
+    position: absolute;
+    width: 141px;
+    height: 26px;
+    left: 40px;
+    top: 316px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #9C9AA4;
+
+}
+.Reportslogo{
+    position: absolute;
+    margin-left: -25px;
+    top:8.33%;
+    bottom:8.33%;
+}
+.ADMIN{
+    position: absolute;
+    width: 54px;
+    height: 26px;
+    left: 40px;
+    top: 373px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #9C9AA4;
+}
+.adminlogo{
+    position:absolute;
+    margin-left:-25px;
+    top:8.33%;
+    bottom:8.33%;
+}
+
+.box{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1242px;
+    height: 939px;
+    left: 210px;
+    top: 85px;
+    
+    background: #ECECEC;
+    border: 1px solid #ECECEC;
+    border-radius: 20px 0px 0px 0px;
+
+}
+ .logo{ 
+    position: absolute;
+    width: 234px;
+    height: 56px;
+   left: 31px;
+   top: 20px;
+ }
+ .NewAssets{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 792px;
+    height: 528px;
+    left: 260px;
+    top: 109px;
+
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+ }
+  h2{
+    position: absolute;
+    width: 138px;
+    height: 26px;
+    left: 20px; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #9C9AA4;
+ }
+ .heading3{
+    position: absolute;
+    width: 54px;
+    height: 26px;
+    left: 720px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #9C9AA4;
+
+ }
+ .smallbox{
+    box-sizing: border-box;
+    position: absolute;
+    left: 20px;
+    right: 0%;
+    top: 50px;
+    bottom: 0%;
+    width:242px;
+    height:110px;
+    background: #FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius: 7px;
+ }
+ .smalluserimg{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username{
+    position: absolute;
+    left: 30px;
+    right: 9.09%;
+    top: 5px;
+    bottom: 67.27%;
+    width:157px;
+    height:26px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+/* identical to box height, or 217% */
+    text-align: right;
+    color: #2C293C;
+ }
+ .role{
+    position: absolute;
+    left:76px;
+    top: 22px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+    }
+    span{
+        font-family:'Inter';
+        font-weight:400;
+        font-size:10px;
+        line-height:26px;
+        text-align:right;
+        color: #9C9AA4;
+    }
+ .emailid{
+    position: absolute;
+    left: 76px;
+    top: 37px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+}
+.joiningdate{
+    position: absolute;
+    left: 76px;
+    top: 54px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+
+}
+.arrow{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+
+}
+ .smallbox2{
+    box-sizing: border-box;
+    position: absolute;
+    left: 275px;
+    top: 50px;
+    width:242px;
+    height:110px;
+    background: #FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius: 7px;
+ }
+ .smalluserimg2{
+    position: absolute;
+    height: 34px;
+    width: 34px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+}
+.username2{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+    }
+.role2{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+}
+.emailid2{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+}
+.joiningdate2{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+}
+.arrow2{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+}
+ .smallbox3{
+    box-sizing:border-box;
+    position:absolute;
+    left:530px;
+    top:50px;
+    width:242px;
+    height:110px;
+    background:#FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius:7px;
+ }
+ .smalluserimg3{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username3{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+    }
+ .role3{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+}
+ .emailid3{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+
+ }
+ .joiningdate3{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+}
+.arrow3{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+}
+ 
+ .smallbox4{
+    box-sizing: border-box;
+    position: absolute;
+    left: 20px;
+    right: 0%;
+    top: 190px;
+    bottom: 0%;
+    width:242px;
+    height:110px;
+    background: #FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius: 7px;
+ }
+ .smalluserimg4{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username4{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+ }
+ .role4{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .emailid4{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .joiningdate4{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+ }
+ .arrow4{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+ }
+ .smallbox5{
+    box-sizing: border-box;
+    position: absolute;
+    left: 275px;
+    right: 0%;
+    top: 190px;
+    bottom: 0%;
+    width:242px;
+    height:110px;
+    background: #FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius: 7px;
+ }
+ .smalluserimg5{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username5{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+ }
+ .role5{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .emailid5{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .joiningdate5{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+ }
+ .arrow5{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+ }
+
+ .smallbox6{
+    box-sizing:border-box;
+    position:absolute;
+    left:530px;
+    top:190px;
+    width:242px;
+    height:110px;
+    background:#FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius:7px;
+ }
+ .smalluserimg6{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username6{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+ }
+ .role6{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .emailid6{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .joiningdate6{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+ }
+ .arrow6{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+ }
+
+
+ .smallbox7{
+    box-sizing: border-box;
+    position: absolute;
+    left: 20px;
+    top: 330px;
+    width:242px;
+    height:110px;
+    background: #FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius: 7px;
+ }
+ .smalluserimg7{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username7{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+ }
+ .role7{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .emailid7{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .joiningdate7{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+ }
+ .arrow7{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+ }
+
+ .smallbox8{
+    box-sizing: border-box;
+    position: absolute;
+    left: 275px;
+    top: 330px;
+    width:242px;
+    height:110px;
+    background: #FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius: 7px;
+ }
+ .smalluserimg8{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username8{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+ }
+ .role8{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .emailid8{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .joiningdate8{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+ }
+ .arrow8{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+ }
+ .smallbox9{
+    box-sizing:border-box;
+    position:absolute;
+    left:530px;
+    top:330px;
+    width:242px;
+    height:110px;
+    background:#FCFBFF;
+    border: 1px solid #ECECEC;
+    border-radius:7px;
+ }
+ .smalluserimg9{
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    left: 16px;
+    top: 38px;
+    border-radius: 0px;
+ }
+ .username9{
+    position: absolute;
+    left:65px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: right;
+ }
+ .role9{
+    position: absolute;
+    left:65px;
+    top: 20px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .emailid9{
+    position: absolute;
+    left:65px;
+    top: 35px;
+    bottom: 34.55%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 26px;
+    text-align: right;
+    color: #2C293C;
+ }
+ .joiningdate9{
+    position: absolute;
+    left: 65px;
+    top: 52px;
+    bottom: 23.64%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2C293C;
+ }
+ .arrow9{
+    position:absolute;
+    height: 16.66px;
+    width: 16.66px;
+    left: 210px;
+    top:80px;
+    border-radius: 0px;
+ }
+ .Totalassetsbox{
+    box-sizing: border-box;
+    position: absolute;
+    width: 326px;
+    height: 530px;
+    left: 1071px;
+    top: 107px;
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+ }
+ 
+
+ .tasset{
+    position: absolute;
+    width: 96px;
+    height: 26px;
+    top:15px;
+    left:25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    text-align: right;
+
+    color: #9C9AA4;
+
+ }
+ .bt1{
+    position: absolute;
+    width: 134px;
+    height: 35px;
+    top: 65px;
+    left:30px;
+    border: none;
+    background: #BFB2F3;
+    border-radius: 31px;
+ }
+ .hr1{
+    position: absolute;
+    width: 326px;
+    height: 0px;
+    top: 110px;
+
+    border: 1px solid #F0EFF4;
+ }
+ .Aasset{
+    position: absolute;
+    width: 128px;
+    height: 26px;
+    top: 128px;
+    left:25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    text-align: right;
+    color: #9C9AA4;
+ }
+ .bt2{
+    position: absolute;
+    width: 134px;
+    height: 35px;
+    left: 30px;
+    top: 180px;
+    border:none;
+    background: #9CDCAA;
+    border-radius: 31px;
+ }
+ .hr2{
+    position: absolute;
+    width: 326px;
+    height: 0px;
+    top: 230px;
+
+    border: 1px solid #F0EFF4;
+ }
+.istock{
+    position: absolute;
+    width: 63px;
+    height: 26px;
+    top: 245px;
+    left:32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    text-align: right;
+
+    color: #9C9AA4;
+}
+.bt3{
+    position: absolute;
+    width: 134px;
+    height: 35px;
+    left:30px;
+    top: 295px;
+    border:none;
+    background: #F3C6A5;
+    border-radius: 31px;
+}
+.hr3{
+    position: absolute;
+    width: 326px;
+    height: 0px;
+    top: 350px;
+
+    border: 1px solid #F0EFF4;
+}
+.Rmaintenance{
+    position: absolute;
+    width: 187px;
+    height: 26px;
+    top: 370px;
+    left:25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    text-align: right;
+    color: #9C9AA4;
+}
+.bt4{
+    position: absolute;
+    width: 134px;
+    height: 35px;
+    left:30px;
+    top: 420px;
+    border:none;
+    background: #F8A3A8;
+    border-radius: 31px;
+}
+.no{
+    width: 48px;
+    height: 26px;
+    top: 427px;
+     font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    /* identical to box height, or 108% */
+    text-align: right;
+    color: #FFFFFF;
+}
+.ellipseimg1{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 250px;
+    top: 40px;
+    border-radius: 50%;
+    background: #F0EEFC;
+}
+.mulimg{
+    position: absolute;
+width: 27px;
+height: 25px;
+left: 265px;
+top: 55px;
+}
+.ellipseimg2{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 250px;
+    top: 165px;
+    border-radius: 50%;
+    background: #F0EEFC;
+}
+.lapset{
+    position: absolute;
+    width: 26px;
+    height: 27px;
+    left: 265px;
+    top: 180px;
+}
+.ellipseimg3{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 250px;
+    top: 283px;
+    border-radius: 50%;
+    background: #F0EEFC;
+}
+.taskcomp{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 265px;
+    top: 300px;
+}
+.ellipseimg4{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 250px;
+    top: 400px;
+    border-radius: 50%;
+    background: #F0EEFC;
+}
+.Comsup{
+    position: absolute;
+    width: 27px;
+    height: 26px;
+    left: 265px;
+    top: 415px;
+}
+.tablebox{
+    box-sizing: border-box;
+
+position: absolute;
+left: 255px;
+right: 0%;
+top: 650px;
+height: 356px;
+width: 1139px;
+border-radius: 10px;
+
+background: #FFFFFF;
+border: 1px solid #ECECEC;
+border-radius: 10px;
+}
+.Repairmainheding{
+    position: absolute;
+    right: 82%;
+    top: 5px;
+    bottom: 85.39%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    text-align: right;
+
+    color: #2C293C;
+}
+.searchicon{
+    position:absolute;
+    height: 18px;
+    width: 18px;
+    left: 885px;
+    top: 27px;
+    border-radius: 0px;
+}
+.searchheading{
+    position: absolute;
+left: 80.6%;
+right: 10.18%;
+top: 8px;
+bottom: 86.52%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+text-align: right;
+
+color: #9C9AA4;
+
+}
+.seeall{
+    position: absolute;
+    left: 90.24%;
+    right: 2.02%;
+    top: 21px;
+    bottom: 85.96%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    text-align: right;
+    color: #9C9AA4;
+}
+.headingbox{
+    box-sizing: border-box;
+     position: absolute;
+    height: 53px;
+    width: 1138px;
+    left: 255px;
+    top: 710px;
+    border-radius: 0px;
+    background: #FCFBFF;
+    border: 1px solid #EFEEF3;
+}
+
+
+.th1{
+   position: absolute;
+   right: 94.72%;
+   top: 26.42%;
+   bottom: 24.53%;
+    font-family: 'Inter';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 14px;
+   line-height: 26px;
+   text-align: right;
+   color: #9C9AA4;
+   }
+   .th2{
+      position: absolute;
+      left: 5.34%;
+      right: 75.92%;
+      top: 26.42%;
+      bottom: 24.53%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 26px;
+      text-align: right;
+      color: #9C9AA4;
+   }
+   .th3{
+      position: absolute;
+      left: 20.55%;
+      right: 63.44%;
+      top: 26.42%;
+      bottom: 24.53%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 26px;
+      text-align: right;
+      color: #9C9AA4;
+   }
+   .th4{
+      position: absolute;
+      left: 42.97%;
+      right: 53.34%;
+      top: 26.42%;
+      bottom: 24.53%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 26px;
+      text-align: right;
+      color: #9C9AA4;
+   }
+   .th5{
+      position: absolute;
+      left: 45.85%;
+      right: 35.33%;
+      top: 26.42%;
+      bottom: 24.53%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 26px;
+      text-align: right;
+      color: #9C9AA4;
+   }
+   .th6{
+      position: absolute;
+      left: 71%;
+      right: 21.79%;
+      top: 26.42%;
+      bottom: 24.53%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 26px;
+      text-align: right;
+      color: #9C9AA4;
+   }
+   .th7{
+      position: absolute;
+      left: 86.38%;
+      right: 9.75%;
+      top: 26.42%;
+      bottom: 24.53%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 26px;
+      text-align: right;
+      color: #9C9AA4;
+   }
+   .td1{
+      position: absolute;
+      right: 89.72%;
+      top: 24.53%;
+      bottom: 26.42%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: right;
+      color: #2C293C;
+   }
+   .td2{
+      position: absolute;
+      left: 16.34%;
+      right: 78.38%;
+      top: 24.53%;
+      bottom: 26.42%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: right;
+      color: #2C293C;
+   }
+   .td3{
+      position: absolute;
+      left: 31.55%;
+      right: 64.85%;
+      top: 24.53%;
+      bottom: 26.42%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: right;
+      color: #2C293C;
+   }
+   .td4{
+      position: absolute;
+      left: 40.97%;
+      right: 49.07%;
+      top: 24.53%;
+      bottom: 26.42%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: right;
+      color: #2C293C;
+   }
+   .td5{
+      position: absolute;
+      left: 50.85%;
+      right: 34.45%;
+      top: 24.53%;
+      bottom: 26.42%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: right;
+      color: #2C293C;
+   }
+   .td6{
+      position: absolute;
+      left: 73.99%;
+      right: 24.69%;
+      top: 24.53%;
+      bottom: 26.42%;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: right;
+      color: #2C293C;
+   }
+   .td7{
+      position: absolute;
+      left: 85.76%;
+      right: 12.3%;
+      top: 37.74%;
+      bottom: 33.96%;
+   }
+   .td8{
+      position: absolute;
+      left: 90.77%;
+      right: 7.64%;
+      top: 35.08%;
+      bottom: 33.96%;
+   }
+   .td9{
+      position: absolute;
+      left: 95.96%;
+      right: 3.6%;
+      top:10px;
+      bottom: 58.49%;
+
+   }
+   .td10{
+      position: absolute;
+      left: 95.96%;
+      right: 3.6%;
+      top: 16px;
+      bottom: 45.91%;
+   }
+   .td11{
+      position: absolute;
+      left: 95.96%;
+      right: 3.6%;
+      top: 22px;
+      bottom: 33.33%;
+   }
+   .databox{
+      box-sizing: border-box;
+      position: absolute;
+      height: 53px;
+      width: 1138px;
+      left: 255px;
+      top: 765px;
+      border-radius: 0px;
+      border: 1px solid #EFEEF3
+   }
+   .databox1{
+      height: 53px;
+      width: 1138px;
+      left: 255px;
+      top: 820px;
+      border-radius: 0px;
+      box-sizing: border-box;
+      position: absolute;
+      background: #F8F9FD;
+      border: 1px solid #EFEEF3;
+   }
+   .databox2{
+      box-sizing: border-box;
+      position: absolute;
+      height: 53px;
+      width: 1138px;
+      left: 255px;
+      top: 869px;
+      border-radius: 0px;
+      border: 1px solid #EFEEF3
+   }
+   .databox3{
+      height:53px;
+      width:1138px;
+      left:255px;
+      top:923px;
+      border-radius:0px;
+      box-sizing:border-box;
+      position:absolute;
+      background:#F8F9FD;
+      border:1px solid #EFEEF3;
+   }
